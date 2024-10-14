@@ -31,7 +31,7 @@ pip install pyperclip
 1. Run the script:
 
 ```
-python color_catalog.py
+python script.py
 ```
 
 2. The application window will open, displaying the color catalog.
